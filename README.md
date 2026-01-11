@@ -1,0 +1,2 @@
+# End-to-End-Sales-Analytics-with-Machine-Learning-Deep-Learning-using-Supermarket-Sales-Data
+Analyzed supermarket sales data to uncover key trends and patterns using exploratory data analysis and visualizations. Built and evaluated machine learning models to predict total sales with performance comparison. Trained a deep learning model for sales prediction and presented insights through clear, professional visuals.
